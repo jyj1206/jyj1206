@@ -80,7 +80,7 @@
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
-    <td style="text-align:center">해외 인턴</td>
+    <td style="text-align:center">해외 인턴십</td>
     <td style="text-align:left">2024.07</td>
     <td style="text-align:left">인도 인턴십</td>
     <td style="text-align:left">HL Mando Softtech India (bangalruru)</td>
