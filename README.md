@@ -1,19 +1,56 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20To%20YJ's%20GitHub!&fontSize=40&height=220&color=gradient&customColorList=2&fontColor=FFFFFF)
 
-### ✉️ Contact
+### ✉️ Contact ✉️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeongjin-jeong-aa27b3263/)](https://www.linkedin.com/in/yeongjin-jeong-aa27b3263/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyjin1206@gmail.com)](mailto:jyjin1206@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=flat-square&logo=Velog&logoColor=black"&link=https://velog.io/@jyj1206/posts)](https://velog.io/@jyj1206/posts)
+  
+### 🛠️ Tech Stack 🛠️
 
-## 🛠️ Tech Stack
+</div>
 
-<hr>
-<a href="https://github.com/jyj1206"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyj1206&layout=compact&theme=nord&hide_border=true&hide=jupyter%20notebook" /></a> 
+<p align="center">Tech that I can use <br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+</p>
+<p align="center">Tech that I've used at least once <br>
+  <img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-F80000?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=DOCKER&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-## 📕 Coading Test
+<p align="center">Tech that I'm currently learning <br>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<div align="center">
+  
+### 📕 Coading Test 📕
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1206)](https://solved.ac/jy1j206/)
 
-## 👔 Work Experience
+</div>
+
+### 👔 Work Experience
 <div style="text-align:left">
 <table>
   <tr>
@@ -65,18 +102,18 @@
   <tr>
     <td>
       <a href="https://github.com/jyj1206/SoClean-ObjectDetect-CarReturn">
-        <img src="https://github.com/user-attachments/assets/4b665115-fb40-460c-be14-006f1a9a7e13" width="300px" height="200px"/>
+        <img src="https://github.com/user-attachments/assets/4b665115-fb40-460c-be14-006f1a9a7e13" width="150px" height="100px"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/KNU-bigdata6/bigdata6">
-        <img src="https://github.com/user-attachments/assets/e14bd0b9-2fc6-4d99-af5d-89a09026bbf7" width="300px height="200px""/>
+        <img src="https://github.com/user-attachments/assets/e14bd0b9-2fc6-4d99-af5d-89a09026bbf7" width="150px height="100px""/>
       </a>
     </td>
   </tr>
 </table>
 
-## 🏃 Activity & Experience
+### 🏃 Activity & Experience
 * 모두의 연구소 아이펠 쏘카 캠퍼스 4기 수료 / 2023.07 ~ 2024.01
 * LG Aimers 4기 수료 / 2024.01 ~ 2024.02
 * 경북대 IT 정보화센터 웹 백엔드 개발 (JAVA) 교육과정 이수 / 2024.08
