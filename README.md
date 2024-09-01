@@ -74,7 +74,7 @@
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
-    <td style="text-align:center">튜터</td>
+    <td style="text-align:center">학부생 튜터/td>
     <td style="text-align:left">2024.03 ~ 2024.06</td>
     <td style="text-align:left">인문사회 코딩 기초</td>
     <td style="text-align:left">경북대학교</td>
@@ -84,6 +84,12 @@
     <td style="text-align:left">2024.07</td>
     <td style="text-align:left">인도 인턴십</td>
     <td style="text-align:left">HL Mando Softtech India (bangalruru)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">학부생 튜터</td>
+    <td style="text-align:left">2024.09 ~ ing</td>
+    <td style="text-align:left">인문사회 코딩 기초</td>
+    <td style="text-align:left">경북대학교</td>
   </tr>
 </table>
 </div>
