@@ -129,3 +129,4 @@
 * 스마트농업 AI 경진대회 참여
 * 빅데이터 분석학회 BDA 9기 데이터 분석 모델링 (ML1) / 2024.09 ~ ing
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ ing
+* Google Developer Groups(GDG) KNU 4기 AI / 2024.09 ~ ing
