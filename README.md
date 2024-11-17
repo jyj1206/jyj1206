@@ -1,50 +1,11 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20To%20YJ's%20GitHub!&fontSize=40&height=220&color=gradient&customColorList=2&fontColor=FFFFFF)
 
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20To%20YJ's%20GitHub!&fontSize=40&height=220&color=gradient&customColorList=2&fontColor=FFFFFF)
+  
 ### ✉️ Contact ✉️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeongjin-jeong-aa27b3263/)](https://www.linkedin.com/in/yeongjin-jeong-aa27b3263/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyjin1206@gmail.com)](mailto:jyjin1206@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=for-the-badge&logo=Velog&logoColor=black"&link=https://velog.io/@jyj1206/posts)](https://velog.io/@jyj1206/posts)
-  
-### 🛠️ Tech Stack 🛠️
-
-### ✅ Proficient in ✅
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/torchserve-F80000?style=for-the-badge&logo=torchserve&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=DOCKER&logoColor=white"/>
-<br>
-
-### 📖 Currently Learning 📖
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-F80000?style=for-the-badge&logo=pytorch&logoColor=white"/> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<br>
-
-### 📂 Used At Least Once 📂
-<img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
-<br>
-
-### 📕 Coading Test 📕
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1206)](https://solved.ac/profile/jyj1206)
-
 </div>
 
 ### 👔 Work Experience
@@ -135,3 +96,31 @@
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ ing
 * Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
 * Google Developer Group on Campus KNU  KNU비전 챌린지톤 최우수상 수상 (프로젝트 명 : 물멍)
+
+<div align="center">
+
+### 📕 Coading Test 📕
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1206)](https://solved.ac/profile/jyj1206)
+
+### 🛠️ Tech Stack 🛠️
+### ✅ Proficient in ✅
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/torchserve-F80000?style=for-the-badge&logo=torchserve&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/DOCKER-1572B6?style=for-the-badge&logo=DOCKER&logoColor=white"/>
+<br>
+
+### 📖 Currently Learning 📖
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-F80000?style=for-the-badge&logo=pytorch&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br>
+
+### 📂 Used At Least Once 📂
+<img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+<br>
+</div>
+
