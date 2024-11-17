@@ -107,7 +107,7 @@
         <strong>영어 교육용 챗봇</strong>
       </a>
     <td align="center" colspan="1">
-      <a href="https://github.com/KNU-bigdata6/bigdata6">
+      <a href="https://github.com/team-GDGline">
         <strong>물멍</strong>
       </a>
   </tr>
@@ -121,6 +121,11 @@
     <td>
       <a href="https://github.com/KNU-bigdata6/bigdata6">
         <img src="https://github.com/user-attachments/assets/e14bd0b9-2fc6-4d99-af5d-89a09026bbf7" width="150px height="100px""/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/team-GDGline">
+        <img src="https://github.com/user-attachments/assets/fcbe23c1-3519-4826-a07e-41b6375ff87e" width="150px height="100px""/>
       </a>
     </td>
   </tr>
