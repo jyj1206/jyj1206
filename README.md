@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/torchserve-F80000?style=for-the-badge&logo=torchserve&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> 
@@ -105,6 +106,10 @@
       <a href="https://github.com/KNU-bigdata6/bigdata6">
         <strong>영어 교육용 챗봇</strong>
       </a>
+    <td align="center" colspan="1">
+      <a href="https://github.com/KNU-bigdata6/bigdata6">
+        <strong>물멍</strong>
+      </a>
   </tr>
 
   <tr>
@@ -129,4 +134,5 @@
 * 스마트농업 AI 경진대회 참여
 * 빅데이터 분석학회 BDA 9기 데이터 분석 모델링 (ML1) / 2024.09 ~ ing
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ ing
-* Google Developer Groups(GDG) KNU 4기 AI / 2024.09 ~ ing
+* Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
+* Google Developer Group on Campus KNU  KNU비전 챌린지톤 최우수상 수상 (프로젝트 명 : 물멍)
