@@ -43,7 +43,7 @@
 <br>
 
 ### 📕 Coading Test 📕
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1206)](https://solved.ac/jyj1206/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj1206)](https://solved.ac/profile/jyj1206)
 
 </div>
 
