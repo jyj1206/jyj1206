@@ -20,13 +20,13 @@
   <tr>
     <td style="text-align:center">학부생</td>
     <td style="text-align:left">2019.03 ~ ing</td>
-    <td style="text-align:left">컴퓨터학부 글로벌 SW 융합전공 - 주전공</td>
+    <td style="text-align:left">컴퓨터학부 글로벌 SW 융합전공</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
     <td style="text-align:center">학부생</td>
     <td style="text-align:left">2023.03 ~ ing</td>
-    <td style="text-align:left">빅데이터 융합전공 - 부전공</td>
+    <td style="text-align:left">빅데이터 융합전공</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
