@@ -120,5 +120,5 @@
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ 2025.02
 * Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
 * Google Developer Group on Campus KNU 비전 챌린지톤 최우수상🏆 수상 (프로젝트 명 : 물멍)
-* 빅데이터 분석학회 BDA 10기 데이터 분석 실전 (추천 시스템 구현) / 2024.03 ~ ing
+* 빅데이터 분석학회 BDA 10기 데이터 분석 실전 (추천 시스템 구현) / 2025.03 ~ ing
 
