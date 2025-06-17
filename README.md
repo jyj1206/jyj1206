@@ -47,6 +47,10 @@
       <a href="https://github.com/team-GDGline">
         <strong>물멍</strong>
       </a>
+      <td align="center" colspan="1">
+      <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-8-AI">
+        <strong>Signory</strong>
+      </a>
   </tr>
 
   <tr>
@@ -63,6 +67,11 @@
     <td>
       <a href="https://github.com/team-GDGline">
         <img src="https://github.com/user-attachments/assets/fcbe23c1-3519-4826-a07e-41b6375ff87e" width="150px height="100px""/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-8-AI">
+        <img src="https://github.com/user-attachments/assets/161a7a9c-5949-481b-ba03-838d75420a9b" width="150px height="100px""/>
       </a>
     </td>
   </tr>
@@ -120,5 +129,6 @@
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ 2025.02
 * Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
 * Google Developer Group on Campus KNU 비전 챌린지톤 최우수상🏆 수상 (프로젝트 명 : 물멍)
+* LG Aimers 6기 수료 / 2025.01 ~ 2024.02
 * 빅데이터 분석학회 BDA 10기 데이터 분석 실전 (추천 시스템 구현) / 2025.03 ~ ing
 
