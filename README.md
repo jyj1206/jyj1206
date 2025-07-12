@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-### 👔 Work Experience
+### 👔 Education, Internship, and Teaching
 <div style="text-align:left">
 <table>
   <tr>
