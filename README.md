@@ -112,8 +112,20 @@
   </tr>
   <tr>
     <td style="text-align:center">학부생 튜터</td>
-    <td style="text-align:left">2024.09 ~ ing</td>
+    <td style="text-align:left">2024.09 ~ 2024.12</td>
     <td style="text-align:left">인문사회 코딩 기초</td>
+    <td style="text-align:left">경북대학교</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">GIST 하계인턴</td>
+    <td style="text-align:left">2025.06 ~ 2025.08</td>
+    <td style="text-align:left">GIST IVL lab 인턴</td>
+    <td style="text-align:left">광주과학기술원 (GIST)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">학부생 튜터</td>
+    <td style="text-align:left">2025.09 ~ present</td>
+    <td style="text-align:left">인공지능의 이해</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
 </table>
@@ -129,5 +141,4 @@
 * Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
 * Google Developer Group on Campus KNU 비전 챌린지톤 최우수상🏆 수상 (프로젝트 명 : 물멍)
 * LG Aimers 6기 수료 / 2025.01 ~ 2024.02
-* 빅데이터 분석학회 BDA 10기 데이터 분석 실전 (추천 시스템 구현) / 2025.03 ~ ing
 
