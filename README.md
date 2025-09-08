@@ -88,13 +88,13 @@
   </tr>
   <tr>
     <td style="text-align:center">학부생</td>
-    <td style="text-align:left">2019.03 ~ ing</td>
+    <td style="text-align:left">2019.03 ~ present</td>
     <td style="text-align:left">컴퓨터학부 글로벌 SW 융합전공</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
     <td style="text-align:center">학부생</td>
-    <td style="text-align:left">2023.03 ~ ing</td>
+    <td style="text-align:left">2023.03 ~ present</td>
     <td style="text-align:left">빅데이터 융합전공</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
@@ -138,7 +138,7 @@
 * 스마트농업 AI 경진대회 참여
 * 빅데이터 분석학회 BDA 9기 데이터 분석 모델링 (ML1) / 2024.09 ~ 2025.02
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ 2025.02
-* Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ ing
+* Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ 2025.06
 * Google Developer Group on Campus KNU 비전 챌린지톤 최우수상🏆 수상 (프로젝트 명 : 물멍)
 * LG Aimers 6기 수료 / 2025.01 ~ 2024.02
 
