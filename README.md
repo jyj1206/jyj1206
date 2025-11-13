@@ -71,7 +71,7 @@
     </td>
     <td>
       <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-8-AI">
-        <img src="https://github.com/user-attachments/assets/161a7a9c-5949-481b-ba03-838d75420a9b" width="150px height="100px""/>
+        <img src="https://github.com/user-attachments/assets/a9292c86-0445-4f81-961d-457ae0929883" width="150px height="100px""/>
       </a>
     </td>
   </tr>
