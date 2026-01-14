@@ -99,34 +99,16 @@
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
-    <td style="text-align:center">학부생 튜터</td>
-    <td style="text-align:left">2024.03 ~ 2024.06</td>
-    <td style="text-align:left">인문사회 코딩 기초</td>
-    <td style="text-align:left">경북대학교</td>
-  </tr>
-  <tr>
     <td style="text-align:center">해외 인턴십</td>
     <td style="text-align:left">2024.07</td>
     <td style="text-align:left">인도 인턴십</td>
     <td style="text-align:left">HL Mando Softtech India (bangalruru)</td>
   </tr>
   <tr>
-    <td style="text-align:center">학부생 튜터</td>
-    <td style="text-align:left">2024.09 ~ 2024.12</td>
-    <td style="text-align:left">인문사회 코딩 기초</td>
-    <td style="text-align:left">경북대학교</td>
-  </tr>
-  <tr>
     <td style="text-align:center">GIST 하계인턴</td>
     <td style="text-align:left">2025.06 ~ 2025.08</td>
     <td style="text-align:left">GIST IVL lab 인턴</td>
     <td style="text-align:left">광주과학기술원 (GIST)</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">학부생 튜터</td>
-    <td style="text-align:left">2025.09 ~ present</td>
-    <td style="text-align:left">인공지능의 이해</td>
-    <td style="text-align:left">경북대학교</td>
   </tr>
 </table>
 </div>
@@ -135,7 +117,6 @@
 * 모두의 연구소 아이펠 쏘카 캠퍼스 수료 / 2023.07 ~ 2024.01
 * LG Aimers 4기 수료 / 2024.01 ~ 2024.02
 * 경북대 IT 정보화센터 웹 백엔드 개발 (JAVA) 교육과정 이수 / 2024.08
-* 스마트농업 AI 경진대회 참여
 * 빅데이터 분석학회 BDA 9기 데이터 분석 모델링 (ML1) / 2024.09 ~ 2025.02
 * 빅데이터 분석학회 BDA 9기 데이터 분석 전처리 (판다스) / 2024.09 ~ 2025.02
 * Google Developer Group on Campus KNU 4기 AI / 2024.09 ~ 2025.06
