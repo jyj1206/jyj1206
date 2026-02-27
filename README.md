@@ -20,12 +20,7 @@
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-F80000?style=for-the-badge&logo=pytorch&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <br>
 
-### 📂 Used At Least Once 📂
-<img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-<br>
-<br>
+</div>
 
 ### 💻 PROJECT
 <table>
@@ -83,14 +78,8 @@
   </tr>
   <tr>
     <td style="text-align:center">학부생</td>
-    <td style="text-align:left">2019.03 ~ present</td>
-    <td style="text-align:left">컴퓨터학부 글로벌 SW 융합전공</td>
-    <td style="text-align:left">경북대학교</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">학부생</td>
-    <td style="text-align:left">2023.03 ~ present</td>
-    <td style="text-align:left">빅데이터 융합전공</td>
+    <td style="text-align:left">2019.03 ~ 2026-02</td>
+    <td style="text-align:left">컴퓨터학부 글로벌 SW 융합전공 + 빅데이터 융합전공</td>
     <td style="text-align:left">경북대학교</td>
   </tr>
   <tr>
@@ -100,10 +89,16 @@
     <td style="text-align:left">HL Mando Softtech India (bangalruru)</td>
   </tr>
   <tr>
-    <td style="text-align:center">GIST 하계인턴</td>
+    <td style="text-align:center">하계인턴</td>
     <td style="text-align:left">2025.06 ~ 2025.08</td>
     <td style="text-align:left">GIST IVL lab 인턴</td>
-    <td style="text-align:left">광주과학기술원 (GIST)</td>
+    <td style="text-align:left">광주과학기술원(GIST)</td>
+  </tr>
+   <tr>
+    <td style="text-align:center">석사 과정</td>
+    <td style="text-align:left">2025.06 ~ 2025.08</td>
+    <td style="text-align:left">AI 융합학과 (IVL lab)</td>
+    <td style="text-align:left">광주과학기술원(GIST)</td>
   </tr>
 </table>
 </div>
