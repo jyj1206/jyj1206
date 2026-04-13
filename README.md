@@ -26,10 +26,6 @@
 <table>
   <tr>
     <td align="center" colspan="1">
-      <a href="https://github.com/jyj1206/SoClean-ObjectDetect-CarReturn">
-        <strong>모두의 클린카</strong></td>
-      </a>
-    <td align="center" colspan="1">
       <a href="https://github.com/KNU-bigdata6/bigdata6">
         <strong>영어 교육용 챗봇</strong>
       </a>
