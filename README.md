@@ -41,11 +41,6 @@
 
   <tr>
     <td>
-      <a href="https://github.com/jyj1206/SoClean-ObjectDetect-CarReturn">
-        <img src="https://github.com/user-attachments/assets/4b665115-fb40-460c-be14-006f1a9a7e13" width="150px" height="100px"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/KNU-bigdata6/bigdata6">
         <img src="https://github.com/user-attachments/assets/e14bd0b9-2fc6-4d99-af5d-89a09026bbf7" width="150px height="100px""/>
       </a>
