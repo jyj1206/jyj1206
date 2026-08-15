@@ -87,7 +87,7 @@
   </tr>
    <tr>
     <td style="text-align:center">석사 과정</td>
-    <td style="text-align:left">2025.06 ~ 2025.08</td>
+    <td style="text-align:left">2026.03 ~ present</td>
     <td style="text-align:left">AI 융합학과 (IVL lab)</td>
     <td style="text-align:left">광주과학기술원(GIST)</td>
   </tr>
